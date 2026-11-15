@@ -1,0 +1,10 @@
+{
+  "name": "trellicare-site",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Static marketing website for Trellicare.",
+  "scripts": {
+    "start": "python3 -m http.server 8080",
+    "check": "node --check script.js"
+  }
+}
